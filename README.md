@@ -1,7 +1,7 @@
 # spi_research_3
 "Sustainable Passive Income research project for the development of my own stock indices; BBIs"
 
-\nLine 1 of config denotes what day the timelist will start on
+Line 1 of config denotes what day the timelist will start on
 Line 2 of config denotes what day the timelist will end on
 Line 3 of config denotes the buying multipler, by default it is set to $1
 
